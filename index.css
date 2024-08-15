@@ -214,4 +214,13 @@ header.black-bg {
   .banner__title {
     max-width: 100%;
   }
+
+  .movie-item {
+    margin-right: 1rem;
+  }
+
+  .move-item-img {
+    width: 250px;
+    height: 150px;
+  }
 }
