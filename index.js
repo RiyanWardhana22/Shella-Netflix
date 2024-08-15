@@ -94,7 +94,7 @@ function buildMoviesSection(list, categoryName) {
     "/bg-vscode/6.jpg",
     "/bg-vscode/3.jpg",
     "/bg-vscode/7.jpg",
-    "/bg-vscode/8.jpg",
+    "/bg-vscode/2.jpg",
   ];
 
   // Jika jumlah gambar custom lebih sedikit daripada film yang ditampilkan
